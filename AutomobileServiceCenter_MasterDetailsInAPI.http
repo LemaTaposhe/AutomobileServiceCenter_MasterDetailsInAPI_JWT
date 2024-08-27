@@ -1,0 +1,6 @@
+@AutomobileServiceCenter_MasterDetailsInAPI_HostAddress = http://localhost:5174
+
+GET {{AutomobileServiceCenter_MasterDetailsInAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
